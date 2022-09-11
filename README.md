@@ -6,4 +6,3 @@ It's an index.html with 3 recipes linked to their own pages. Each one has an ima
 
 
 
-fedesanchez2020.github.io/odin-recipes
