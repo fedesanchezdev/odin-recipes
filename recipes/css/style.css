@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: left;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    padding: 1em;
+}
+
+h1, h2, a {
+    font-family: 'Covered By Your Grace', cursive, sans-serif;
+    font-size: 40px;
+}
+
+.main-photo {
+    width: 500px;
+    height: auto;
+}
+p, h2, ul, header {
+    padding-top: 1em;
+} 
+p, ul, ol {
+    font-size: 20px;
+}
+
+ol>li {
+    padding: 0.5em;
+}
